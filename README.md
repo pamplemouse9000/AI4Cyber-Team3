@@ -50,7 +50,7 @@ We are loosely following GitHub Flow, and pull requests are preferred - but we w
 
 ## Contact
 Connect with us on LinkedIn:
-* [Nick Pryor-Bennett](www.linkedin.com/in/nickpryorbennett)
+* [Nick Pryor-Bennett](https://www.linkedin.com/in/nickpryorbennett)
 * [Megan Garufi](https://www.linkedin.com/in/megan-mcguinness-garufi-8448834)
 * [Jesse Lambert](https://www.linkedin.com/in/jesse-lambert/)
 * [Wes Mason](https://www.linkedin.com/in/weskmason/)
